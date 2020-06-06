@@ -1,0 +1,15 @@
+This message is from an EXTERNAL SENDER - be CAUTIOUS, particularly with links and attachments.
+
+Several Undeleivered Messages Found
+Action Required	Suite	Recipient
+ 	 	 
+Server Congestion	 
+How to Fix It
+Your message could not be delvered. The address of your recipient may be misspelled or does not exist.
+
+In order to resend the message, please click Send Again.
+
+You will need to review the recipient email, and may need to retype the address.
+Please note that the recipient may have set up an incorrect mail forwarding rule, causing the message to be undeliverable. If this fails, contact the recipient by another form of comunicattion. 
+
+Send Again
